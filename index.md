@@ -1,4 +1,9 @@
 # Tracking the Trackers: Ethical measurements of web privacy leakages in-the-wild <br>@ WebSci 2021
+
+_[Nishanth Sastry (Primary Contact)](https://nishrs.github.io), [Guillermo Suarez De Tangil](https://nms.kcl.ac.uk/guillermo.suarez-tangil/), [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ), [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/), [Xuehui (Rachel) Hu](https://rachelkcl.github.io/), [Pushkal Agarwal](https://pushkal17.github.io/)_
+<br>
+_University of Surrey, IMDEA Networks, King’s College London, Telefonica Research, IIT Kharagpur_
+
 First introduced in the mid-nineties as a way of recording client-side state, cookies have proliferated widely on the Web, and have become a fundamental part of the Web ecosystem. However, there is widespread concern that cookies are being abused to track and profile individuals online for commercial, analytical and various other purposes. Consequently, there has been an explosion of research into understanding the prevalence of tracking on the Web, and the resulting leakage of Personally Identifiable Information (PII). In this tutorial, we aim to introduce the audience to state-of-the-art empirical measurement methods and techniques that are being used to understand and quantify web tracking in-the-wild.
 
 
@@ -56,6 +61,4 @@ As well as some instructions for our github repositories and data sets.
 * Interpreting results
 
 
-_[Nishanth Sastry (Primary Contact)](https://nishrs.github.io), [Guillermo Suarez De Tangil](https://nms.kcl.ac.uk/guillermo.suarez-tangil/), [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ), [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/), [Xuehui (Rachel) Hu](https://rachelkcl.github.io/rachelhu.github.io/), [Pushkal Agarwal](https://pushkal17.github.io/)_
-<br>
-_University of Surrey, IMDEA Networks, King’s College London, Telefonica Research, IIT Kharagpur_
+
