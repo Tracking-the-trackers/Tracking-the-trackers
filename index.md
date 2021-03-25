@@ -14,31 +14,31 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 
 ## Introduction to Privacy (first 1.5 hour)
 Introduce the audience to basic concepts and techniques, with examples from recent research.
-### Issues in tracking
-* Privacy
-* Consent
-* Usability
+  ### Issues in tracking
+  * Privacy
+  * Consent
+  * Usability
 
-### Legislation and Perceptions of Privacy 
-* GDPR (EU)
-* CCPA (CA)
-* PIPEDA (Canada)/LGPD (Brazil)
-* Privacy across the world (emerging markets)
+  ### Legislation and Perceptions of Privacy 
+  * GDPR (EU)
+  * CCPA (CA)
+  * PIPEDA (Canada)/LGPD (Brazil)
+  * Privacy across the world (emerging markets)
 
-### Ethics & Research 
-* General concepts 
-* The Belmont Report
-* PIPEDA (Canada)/LGPD (Brazil)
-* Internet-mediated researc
+  ### Ethics & Research 
+  * General concepts 
+  * The Belmont Report
+  * PIPEDA (Canada)/LGPD (Brazil)
+  * Internet-mediated researc
 
-### Types/means of tracking 
-* Cookies
-* Invisible pixels
-* Device Fingerprinting
+  ### Types/means of tracking 
+  * Cookies
+  * Invisible pixels
+  * Device Fingerprinting
 
-### Methods 
-* Automated measurements (OpenWPM and barebone Selenium)
-* Human-centered measurements (Browser extensions)
+  ### Methods 
+  * Automated measurements (OpenWPM and barebone Selenium)
+  * Human-centered measurements (Browser extensions)
 
 ## Coffee Break  (0.5 hour)
 
@@ -47,22 +47,22 @@ Hands-on experience into state-of-the-art tools and techniques, including some d
 As well as some instructions for our github repositories and data sets.
 
 
-### Automated measurements 
-* How to install / launch OpenWPM
-* What to do when anti-crawling mechanisms are deployed
-* What options / settings available
-* How to build synthetic profiles
-* What data should be collected
+  ### Automated measurements 
+  * How to install / launch OpenWPM
+  * What to do when anti-crawling mechanisms are deployed
+  * What options / settings available
+  * How to build synthetic profiles
+  * What data should be collected
 
-### Human-centered measurements
-* How to create a browser extension
-* Monitoring and collecting user activity
-* What data should be collected
-* Handling informed consent
+  ### Human-centered measurements
+  * How to create a browser extension
+  * Monitoring and collecting user activity
+  * What data should be collected
+  * Handling informed consent
 
-### Interpreting results 
-* Aggregating and visualizing data
-* Interpreting results
+  ### Interpreting results 
+  * Aggregating and visualizing data
+  * Interpreting results
 
 
 
