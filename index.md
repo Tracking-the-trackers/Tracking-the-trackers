@@ -4,6 +4,10 @@ _[Nishanth Sastry (Primary Contact)](https://nishrs.github.io), [Guillermo Suare
 <br>
 _University of Surrey, IMDEA Networks, King’s College London, Telefonica Research, IIT Kharagpur_
 
+
+<hr>
+
+
 First introduced in the mid-nineties as a way of recording client-side state, cookies have proliferated widely on the Web, and have become a fundamental part of the Web ecosystem. However, there is widespread concern that cookies are being abused to track and profile individuals online for commercial, analytical and various other purposes. Consequently, there has been an explosion of research into understanding the prevalence of tracking on the Web, and the resulting leakage of Personally Identifiable Information (PII). In this tutorial, we aim to introduce the audience to state-of-the-art empirical measurement methods and techniques that are being used to understand and quantify web tracking in-the-wild.
 
 
