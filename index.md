@@ -15,7 +15,7 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 ## Introduction to Privacy (first 1.5 hour)
 Introduce the audience to basic concepts and techniques, with examples from recent research.
 
-```
+
 ### Issues in tracking
 * Privacy
 * Consent
@@ -41,7 +41,7 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 ### Methods 
 * Automated measurements (OpenWPM and barebone Selenium)
 * Human-centered measurements (Browser extensions)
-```
+
 
 ## Coffee Break  (0.5 hour)
 
@@ -49,7 +49,7 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 Hands-on experience into state-of-the-art tools and techniques, including some developed by the tutorial organisers.
 As well as some instructions for our github repositories and data sets.
 
-```
+
 ### Automated measurements 
 * How to install / launch OpenWPM
 * What to do when anti-crawling mechanisms are deployed
@@ -66,6 +66,6 @@ As well as some instructions for our github repositories and data sets.
 ### Interpreting results 
 * Aggregating and visualizing data
 * Interpreting results
-```
+
 
 
