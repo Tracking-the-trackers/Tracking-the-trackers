@@ -1,6 +1,6 @@
 # Tracking the Trackers: Ethical measurements of web privacy leakages in-the-wild <br>@ WebSci 2021
 
-_[Nishanth Sastry (Primary Contact)](https://nishrs.github.io), [Guillermo Suarez De Tangil](https://nms.kcl.ac.uk/guillermo.suarez-tangil/), [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ), [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/), [Xuehui (Rachel) Hu](https://rachelkcl.github.io/), [Pushkal Agarwal](https://pushkal17.github.io/)_
+_[Nishanth Sastry](https://nishrs.github.io), [Guillermo Suarez De Tangil](https://nms.kcl.ac.uk/guillermo.suarez-tangil/), [Nicolas Kourtellis](https://scholar.google.com/citations?user=Q5oWwiQAAAAJ), [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/), [Xuehui (Rachel) Hu](https://rachelkcl.github.io/), [Pushkal Agarwal](https://pushkal17.github.io/)_
 <br>
 _University of Surrey, IMDEA Networks, King’s College London, Telefonica Research, IIT Kharagpur_
 
