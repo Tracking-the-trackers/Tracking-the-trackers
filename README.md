@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This repository contains all materials we cover in our WebSci 2021 Tutorial -- Tracking-the-trackers
+
 <!--
 **Tracking-the-trackers/Tracking-the-trackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
