@@ -36,11 +36,6 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 * PIPEDA (Canada)/LGPD (Brazil)
 * Internet-mediated researc
 
-### Types/means of tracking 
-* Cookies
-* Invisible pixels
-* Device Fingerprinting
-
 ### Methods 
 * Automated measurements (OpenWPM and barebone Selenium)
 * Human-centered measurements (Browser extensions)
