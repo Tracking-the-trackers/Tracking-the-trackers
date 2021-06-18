@@ -37,7 +37,7 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 * Internet-mediated researc
 
 ### Methods 
-* Automated measurements (OpenWPM and barebone Selenium) [Slides](https://drive.google.com/file/d/1Y4Kdhy4viGHQ8dDkIOmT_IZUHK9V7Odf/view?usp=sharing)[Installations](https://docs.google.com/document/d/1CJQW2_0lBQenRbkB9gDy8sY7s8FBkfN8_pThHnfRDX0/edit?usp=sharing)
+* Automated measurements (OpenWPM and barebone Selenium) [Slides](https://drive.google.com/file/d/1Y4Kdhy4viGHQ8dDkIOmT_IZUHK9V7Odf/view?usp=sharing) [Installations](https://docs.google.com/document/d/1CJQW2_0lBQenRbkB9gDy8sY7s8FBkfN8_pThHnfRDX0/edit?usp=sharing)
 * Human-centered measurements (Browser extensions) [Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing)
 
 
