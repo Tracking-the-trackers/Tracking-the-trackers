@@ -50,14 +50,14 @@ Hands-on experience into state-of-the-art tools and techniques, including some d
 As well as some instructions for our github repositories and data sets.
 
 
-### Automated measurements 
+### Automated measurements ([Slides](https://drive.google.com/file/d/1Y4Kdhy4viGHQ8dDkIOmT_IZUHK9V7Odf/view?usp=sharing)) ([Installations](https://docs.google.com/document/d/1CJQW2_0lBQenRbkB9gDy8sY7s8FBkfN8_pThHnfRDX0/edit?usp=sharing))
 * How to install / launch OpenWPM
 * What to do when anti-crawling mechanisms are deployed
 * What options / settings available
 * How to build synthetic profiles
 * What data should be collected
 
-### Human-centered measurements
+### Human-centered measurements ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing))
 * How to create a browser extension
 * Monitoring and collecting user activity
 * What data should be collected
