@@ -41,9 +41,9 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 * Human-centered measurements (Browser extensions) ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing))
 
 
-## Coffee Break  (0.5 hour)
+## Coffee Break  (15 min)
 
-## Practicals against Tracking  (second 1.5 hour)
+## Practicals against Tracking  (15:45 BST)
 Hands-on experience into state-of-the-art tools and techniques, including some developed by the tutorial organisers.
 As well as some instructions for our github repositories and data sets.
 
