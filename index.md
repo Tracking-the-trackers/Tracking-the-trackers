@@ -16,7 +16,7 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 Introduce the audience to basic concepts and techniques, with examples from recent research.
 
 
-### Types/means of tracking [PPT](https://docs.google.com/presentation/d/1xN4eDoda5JVwajeW5RqkrpD09usYB8GQ_5nZ4r1ojfI/edit?usp=sharing)
+### Types/means of tracking [Slides](https://docs.google.com/presentation/d/1xN4eDoda5JVwajeW5RqkrpD09usYB8GQ_5nZ4r1ojfI/edit?usp=sharing)
 * Cookies
 * Cookie Synchronization
 * Invisible pixels
@@ -24,7 +24,7 @@ Introduce the audience to basic concepts and techniques, with examples from rece
 * CNAME Cloaking Tracking
 
 
-### Legislation and Perceptions of Privacy [PPT](https://docs.google.com/presentation/d/12iHy-H8nYRD7VYq74m6zTQEbsiV2tuogHsmC63pLIpQ/edit?usp=sharing)
+### Legislation and Perceptions of Privacy [Slides](https://docs.google.com/presentation/d/12iHy-H8nYRD7VYq74m6zTQEbsiV2tuogHsmC63pLIpQ/edit?usp=sharing)
 * GDPR (EU)
 * CCPA (CA)
 * PIPEDA (Canada)/LGPD (Brazil)
