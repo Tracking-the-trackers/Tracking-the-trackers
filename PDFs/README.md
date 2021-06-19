@@ -1,1 +1,1 @@
-permalink: /list.html
+permalink: ./list.html
