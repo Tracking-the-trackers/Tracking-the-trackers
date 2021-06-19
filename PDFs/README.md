@@ -106,7 +106,7 @@
       }
       (async () => {
         // Get GitHub repository file info
-        const response = await fetch('https://api.github.com/repos/Tracking-the-trackers/Tracking-the-trackers.github.io/contents/PDFs//');
+        const response = await fetch('https://api.github.com/repos/Tracking-the-trackers/Tracking-the-trackers.github.io/contents/PDFs');
         const data = await response.json();
         // Initialize search fields and results
         const search_form = document.getElementById('search_form');
