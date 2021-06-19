@@ -1,1 +1,1 @@
-![](./list.html)
+permalink: /list.html
