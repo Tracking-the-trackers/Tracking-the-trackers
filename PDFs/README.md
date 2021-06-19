@@ -2,7 +2,7 @@
   <body>
     <script>
       (async () => {
-        const response = await fetch('https://api.github.com/repos/PDF/contents/');
+        const response = await fetch('https://api.github.com/repos/Tracking-the-trackers/PDF/contents/');
         const data = await response.json();
         let htmlString = '<ul>';
         for (let file of data) {
