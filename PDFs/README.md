@@ -11,13 +11,4 @@
 <p>india-Topical Webpages.pdf</p>
 <p>india-tracking on hyper-partisan websites.pdf</p>
 
-
-<html>
-  <body>
-    <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-</head>
-  <p>india-tracking on hyper-partisan websites.pdf</p>
-    <span>india-tracking on hyper-partisan websites.pdf</span>  <span>india-tracking on hyper-partisan websites.pdf</span>
-  <body>
-</html>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://raw.githack.com/Tracking-the-trackers/Tracking-the-trackers.github.io/main/PDFs/list.html" style="border: 1px solid black"></iframe>
