@@ -26,11 +26,13 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 * CNAME Cloaking Tracking
 
 
-### Legislation and Perceptions of Privacy ([Slides](https://docs.google.com/presentation/d/12iHy-H8nYRD7VYq74m6zTQEbsiV2tuogHsmC63pLIpQ/edit?usp=sharing)) (14:35 - 15:00 BST)
-* GDPR (EU)
-* CCPA (CA)
-* PIPEDA (Canada)/LGPD (Brazil)
-* Privacy across the world (emerging markets)
+### GDPR and Consent Management on the Web ([Slides](https://docs.google.com/presentation/d/12iHy-H8nYRD7VYq74m6zTQEbsiV2tuogHsmC63pLIpQ/edit?usp=sharing)) (14:35 - 15:00 BST)
+* Legal and regulatory basis for fighting back against trackers
+* GDPR and other data privacy laws around the world
+* Industry fightback (and ways to manage the regulatory burden)
+     - IAB, ICC Categories and Consent Management Platforms {This and the next are second level bullets}
+     - Dark Patterns to deceive users to “consent” to tracking
+
 
 
 ### Ethical and privacy-preserving internet-mediated research ([Slides](https://docs.google.com/presentation/d/1bCyiqwpBhBrHitSF7ttxD_p-N78Aj4es16XkJYfRylE/edit?usp=sharing)) (15:00 - 15:35 BST)
