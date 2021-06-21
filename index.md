@@ -30,8 +30,8 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 * Legal and regulatory basis for fighting back against trackers
 * GDPR and other data privacy laws around the world
 * Industry fightback (and ways to manage the regulatory burden)
-     - IAB, ICC Categories and Consent Management Platforms {This and the next are second level bullets}
-     - Dark Patterns to deceive users to “consent” to tracking
+     - IAB, ICC Categories and Consent Management Platforms
+     - Dark Patterns to deceive users to consent to tracking
 
 
 
