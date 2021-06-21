@@ -49,10 +49,13 @@ First introduced in the mid-nineties as a way of recording client-side state, co
 ## Coffee Break (15:45 - 16:00 BST)
 
 ## Practical Session
-Hands-on experience into state-of-the-art tools and techniques, including some developed by the tutorial organisers as well as some instructions for our github repositories and datasets.
+Hands-on experience into state-of-the-art tools and techniques, including some developed by the tutorial organisers as well as some instructions for our github repositories and datasets. Most of the online activities will involve some light python scripting on Google Collab. Familiarity with Python will be helpful but not required. We will also build a basic browser extension to measure web privacy. Familiarity with Javascript and HTML will be helpful for this.
+Optional requirements: 
+- Chrome browser, to follow browser extension-related activities.
+- Linux or Mac: to install OpenWPM (Not essential; but installation may provide additional insights into performing automated measurements)
 
 
-### Automated measurements ([Slides](https://drive.google.com/file/d/1Y4Kdhy4viGHQ8dDkIOmT_IZUHK9V7Odf/view?usp=sharing)) ([Installations](https://docs.google.com/document/d/1CJQW2_0lBQenRbkB9gDy8sY7s8FBkfN8_pThHnfRDX0/edit?usp=sharing)) (16:00 - 16:45 BST)
+### Automated measurements ([Slides](https://drive.google.com/file/d/1Y4Kdhy4viGHQ8dDkIOmT_IZUHK9V7Odf/view?usp=sharing)) ([Installations](https://docs.google.com/document/d/1CJQW2_0lBQenRbkB9gDy8sY7s8FBkfN8_pThHnfRDX0/edit?usp=sharing)) ([Google Collab](https://colab.research.google.com/drive/1flrWTgv9yMeSg9kL3Z1aBYtlJo110L2n?usp=sharing)) (16:00 - 16:45 BST)
 * How to install / launch OpenWPM?
 * What to do when anti-crawling mechanisms are deployed?
 * What options / settings available?
@@ -60,7 +63,7 @@ Hands-on experience into state-of-the-art tools and techniques, including some d
 * What data should be collected?
 
 
-### Human-centered measurements ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing)) (16:45 - 17:30 BST)
+### Human-centered measurements ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing)) ([Google Collab](https://colab.research.google.com/drive/1ZnrUxOUSfON_8FQ6z0UUT6r2LsN59p6p?usp=sharing)) (16:45 - 17:30 BST)
 * How to create a browser extension?
 * Monitoring and collecting user activity
 * What data should be collected?
