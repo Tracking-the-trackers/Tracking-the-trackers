@@ -65,7 +65,7 @@ Optional requirements:
 * What data should be collected?
 
 
-### Human-centered measurements ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing)) ([Installation](https://github.com/rachelkcl/Websci21Tutorial_Demo/blob/main/extensionDemo-HandOnSession.zip?raw=true)) ([Google Collab](https://colab.research.google.com/drive/1ZnrUxOUSfON_8FQ6z0UUT6r2LsN59p6p?usp=sharing)) (16:45 - 17:30 BST)
+### Human-centered measurements ([Slides](https://drive.google.com/file/d/1IanDbMQU3ujs_gaKkJYzD2CdE87RBgAe/view?usp=sharing)) ([Download](https://github.com/rachelkcl/Websci21Tutorial_Demo/blob/main/extensionDemo-HandOnSession.zip?raw=true)) ([Google Collab](https://colab.research.google.com/drive/1ZnrUxOUSfON_8FQ6z0UUT6r2LsN59p6p?usp=sharing)) (16:45 - 17:30 BST)
 * How to create a browser extension?
 * Monitoring and collecting user activity
 * What data should be collected?
